@@ -1,5 +1,5 @@
 const express = require('express');
-const authService = require('../service/auth.service');
+const authService = require('../service/authService');
 // const validate = require('../../middlewares/validate');
 // const authValidation = require('../../validations/auth.validation');
 // const authController = require('../../controllers/auth.controller');
@@ -20,8 +20,6 @@ console.log("auth.route", authService.login)
 
 router.post('/login', authService.login);
 // router.post('/logout', authController.logout);
-
-
 
 
 module.exports = router;
