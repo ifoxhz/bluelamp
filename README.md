@@ -1,5 +1,5 @@
 
-Tailored for project of team! 
+Tailored for project of team! 利用Hackathon 开源的框架，裁剪一个适合团队使用的nodejs 后端框架，可以持续添加功能。
 
 
 Table of Contents
