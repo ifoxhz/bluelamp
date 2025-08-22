@@ -1,6 +1,10 @@
 
-Tailored for project of team! 利用Hackathon 开源的框架，裁剪一个适合团队使用的nodejs 后端框架，可以持续添加功能。
+* 利用Hackathon开源的框架，裁剪一个适合团队使用的nodejs 后端框架，可以持续添加功能。
 目前还处于原始阶段，后期持续跟进！
+
+* Using an open-source Hackathon framework, tailor a Node.js backend framework suitable for team use, with the ability to continuously add features. Currently in the early stages, with ongoing development to follow!
+* 
+
 
 
 Table of Contents
@@ -83,7 +87,7 @@ Getting Started
 
 ```bash
 # Get the latest snapshot
-git clone https://github.com/sahat/hackathon-starter.git myproject
+git clone https://github.com/ifoxhz/bluelamp.git myproject
 
 # Change directory
 cd myproject
